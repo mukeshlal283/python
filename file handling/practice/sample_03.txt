@@ -1,0 +1,1 @@
+list is a set in python where we store data and it can be modified

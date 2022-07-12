@@ -1,0 +1,2 @@
+the content of file save to another file "renamed_file.py"
+and this will be deleted using OS mudule
